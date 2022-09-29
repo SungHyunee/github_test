@@ -12,6 +12,10 @@
 2. 리스트 다섯번째
 3. 리스트 두번째
 
+* 별표
+- 마이너스
+% 나누기
+
 [google](https://google.com)
 
 ![alt text](http://image.genie.co.kr/Y/IMAGE/IMG_ARTIST/042/307/533/42307533_1648619342567_27_600x600.JPG)
